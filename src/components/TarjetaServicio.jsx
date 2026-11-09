@@ -1,5 +1,5 @@
 import React from 'react';
-import Etiqueta from './Etiqueta';
+import Etiqueta from './src/components/Etiqueta.jsx';
 
 /**
  * Componente TarjetaServicio
