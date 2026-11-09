@@ -1,5 +1,5 @@
 import React from 'react';
-import TarjetaServicio from './src/components/TarjetaServicio.jsx';
+import TarjetaServicio from './components/TarjetaServicio.jsx';
 
 /**
  * Componente Principal App
